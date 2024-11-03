@@ -16,9 +16,10 @@
     /* margin-top: 6%;
     margin-left: 40%;
     margin-right: 20%;
-    border-radius: 5px; */
+     */
     width: 380px;
     height: 640px;
+    border-radius: 10px;
 }
 h2{
     font-size: 18px;
