@@ -27,7 +27,7 @@ h2{
     /* margin-left: 0%; */
     font: weight 6px;
     font-family: 'Outfit', sans-serif;
-
+    color: white;
 }
 .crypto{
     display: grid;
@@ -47,6 +47,7 @@ h2{
 .watch{
     display: grid;
     grid-template-columns: 20% 80%;
+    color: white;
 }
 .crypto p{
     margin-top: -1px;
@@ -75,6 +76,7 @@ footer img{
 .bods p{
     color: hsl(215, 51%, 70%);
 }
+
 h2:hover{
     color: hsl(178, 100%, 50%);
     cursor: pointer;
